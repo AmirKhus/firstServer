@@ -1,0 +1,13 @@
+{
+  "id": "Идентификатор",
+  "geog": "Геометрия",
+  "title": "Название",
+  "water_object_id": "Водный объект",
+  "water_object_type_id": "Тип водного объекта",
+  "district_gid": "Район",
+  "createdby": "Создан",
+  "createdtime": "Время создания",
+  "modifiedby": "Изменён",
+  "modifiedtime": "Время изменения",
+  "common_info": "Основная информация"
+}

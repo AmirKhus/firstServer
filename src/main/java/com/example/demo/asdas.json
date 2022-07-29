@@ -1,0 +1,102 @@
+{
+  "id": "56",
+  "geog": "POINT(51.5127777777778 55.5608333333333)",
+  "reg_number": "34",
+  "waterobject_id": "2392",
+  "district_gid": "3124",
+  "type_id": "3",
+  "name": "остатки корпуса судна",
+  "distance": "1580.8",
+  "coast_type_id": "2",
+  "on_the_way": null,
+  "registration_date": "2016-08-05 00:00:00",
+  "condition_id": "3",
+  "abs_mark": null,
+  "length_fact": 60,
+  "width_fact": 6,
+  "height_fact": 1.5,
+  "length_passport": null,
+  "width_passport": null,
+  "height_passport": null,
+  "body_material": "металл",
+  "note": null,
+  "rise_need": "1",
+  "rise_method_id": "3",
+  "rise_plan_sum": 3293771.2,
+  "rise_fact_sum": null,
+  "filelist_id": "93495",
+  "env_risks": null,
+  "createdby": null,
+  "modifiedby": "22",
+  "createddatetime": "2016-11-22 16:32:02.341918+03",
+  "modifieddatetime": "2017-11-08 17:40:21.111872+03",
+  "has_ship": "0",
+  "events": [
+    {
+      "id": "38",
+      "wreck_id": "56",
+      "scheduled_events": "Рекомендуемый метод подъема – крановый. Для проведения работ по подъему необходимо наличие на объекте следующих плавсредств:\n1.\tПлавкран грузоподъемностью 150тн.\n",
+      "planned_date": null,
+      "fact_date": null,
+      "risks": null,
+      "createdby": null,
+      "modifiedby": "22",
+      "createddatetime": "2016-11-22 16:32:02.341918+03",
+      "modifieddatetime": "2016-11-22 17:14:30.022904+03",
+      "delivery_place": null
+    }
+  ],
+  "surveys": [
+    {
+      "id": "41",
+      "wreck_id": "56",
+      "explorer_id": "1",
+      "survey_date": "2016-08-05 00:00:00",
+      "result": "Остатки судна выполнены из стали, подвержены коррозии. Остатки судна представляют собой фрагмент корпуса (днищевая и бортовая часть) с остатками днищевого и частично бортового набора.Днищевая частьфрагмента корпуса проросла камышом и травой.Фрагмент корпуса полностью находится на берегу, расположен вдоль береговой линии по урезу воды.Ориентировочный вес остатков составляет 20 - 25т.",
+      "createdby": null,
+      "modifiedby": "22",
+      "createddatetime": "2016-11-22 16:32:02.341918+03",
+      "modifieddatetime": "2016-11-22 17:14:30.022904+03"
+    }
+  ],
+  "filelist": {
+    "id": "93495",
+    "title": "",
+    "hash": "e6d61160083f9cbaeb9fea8e1ae6fff6",
+    "files": [
+      {
+        "id": "186189",
+        "owner_id": "22",
+        "security_key": "",
+        "name": "Акт 1.docx",
+        "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "size": "17563",
+        "url": "a9/9511c53488a7d2.docx",
+        "upload_time": "2016-11-22 16:41:38",
+        "create_datetime": null
+      },
+      {
+        "id": "186190",
+        "owner_id": "22",
+        "security_key": "",
+        "name": "IMG_3713.JPG",
+        "mime": "image/jpeg",
+        "size": "2589075",
+        "url": "0d/8e422a683acd90.JPG",
+        "upload_time": "2016-11-22 16:41:45",
+        "create_datetime": "2016-08-05 00:00:00"
+      },
+      {
+        "id": "186191",
+        "owner_id": "22",
+        "security_key": "",
+        "name": "IMG_3717.JPG",
+        "mime": "image/jpeg",
+        "size": "2315677",
+        "url": "66/ad2860468f0cfd.JPG",
+        "upload_time": "2016-11-22 16:41:57",
+        "create_datetime": "2016-08-05 00:00:00"
+      }
+    ]
+  }
+}
